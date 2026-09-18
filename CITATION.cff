@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite the manuscript below."
+message: "If you use this work, please cite the article below."
 title: "WP-M2 Net: Wavelet-Perception Macro-Micro Dynamic 1D-CNN for Efficient Sequential Motion Recognition from Sparse sEMG"
 abstract: >-
   WP-M2 Net is a lightweight four-stage 1D convolutional network for sequential motion
