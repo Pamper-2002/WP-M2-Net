@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the manuscript below."
+title: "WP-M2 Net: Wavelet-Perception Macro-Micro Dynamic 1D-CNN for Efficient Sequential Motion Recognition from Sparse sEMG"
+abstract: >-
+  WP-M2 Net is a lightweight four-stage 1D convolutional network for sequential motion
+  recognition from sparse surface electromyography. Each stage couples a frozen
+  Daubechies-4 wavelet macro-perception branch with a grouped short-kernel micro-aggregation
+  branch, capturing both the slow envelope of a movement sequence and its transient bursts.
+authors:
+  - family-names: Cheng
+    given-names: Jun
+  - family-names: Chen
+    given-names: Bo
+  - family-names: Wang
+    given-names: Zheming
+  - family-names: Ye
+    given-names: Xiangming
+  - family-names: Cheng
+    given-names: Ruidong
+  - family-names: Wang
+    given-names: Tian
+repository-code: "https://github.com/Pamper-2002/WP-M2-Net"
+keywords:
+  - surface electromyography
+  - sEMG
+  - motion recognition
+  - wavelet transform
+  - convolutional neural network
+preferred-citation:
+  type: article
+  title: "WP-M2 Net: Wavelet-Perception Macro-Micro Dynamic 1D-CNN for Efficient Sequential Motion Recognition from Sparse sEMG"
+  authors:
+    - family-names: Cheng
+      given-names: Jun
+    - family-names: Chen
+      given-names: Bo
+    - family-names: Wang
+      given-names: Zheming
+    - family-names: Ye
+      given-names: Xiangming
+    - family-names: Cheng
+      given-names: Ruidong
+    - family-names: Wang
+      given-names: Tian
+  journal: "IEEE Journal of Biomedical and Health Informatics"
+  year: 2026
+  doi: "10.1109/JBHI.2026.3734535"
